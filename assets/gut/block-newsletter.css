@@ -1,0 +1,80 @@
+.formulado strong {
+    font-size: 28px;
+    line-height: 34px;
+    font-family: 'Gatorade black', sans-serif !important;
+}
+
+h1.lanzamientos {
+    font-size: 34px;
+    line-height: 38px;
+    font-family: 'Gatorade black', sans-serif !important;
+    color: black !important;
+}
+
+p.lanzamientos {
+    font-size: 22px !important;
+    line-height: 26px;
+    font-family: 'Gatorade black', sans-serif !important;
+    margin-bottom: 27px !important;
+}
+
+p.lanzamientos2 {
+    font-size: 34px;
+    line-height: 38px;
+    font-family: 'Gatorade black', sans-serif !important;
+    color: white !important;
+    margin-bottom: 50px !important;
+}
+.caracterisiticas_sec {
+    margin: 45px 0px;
+}
+.caracteristica_el {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid var(--color-orange);
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position:relative;
+}
+p.caract_num {
+    font-size: 48px !important;
+    line-height: 39px !important;
+    font-family: 'Gatorade black', sans-serif !important;
+    color: white !important;
+    text-align: center;
+    margin-bottom: 0px !important;
+}
+.caract_img {
+    width: 62px;
+    height: 62px;
+    background: var(--color-orange);
+    border-radius: 50%;
+    padding: 11px;
+}
+.caract_img img {
+    border-radius: 0% !important;
+}
+.flex_hor {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+.flex_hor {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+.gramos {
+    margin-bottom: 0px !important;
+    font-family: 'Gatorade black', sans-serif !important;
+    color: white !important;
+    font-size: 20px !important;
+}
+.caract_name {
+margin-top: 0px !important;
+margin-bottom: 16px !important;
+}

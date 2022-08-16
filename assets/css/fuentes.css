@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'Gatorade bold';
+    src: url('../fonts/Gatorade-Bold.eot');
+    src: url('../fonts/Gatorade-Bold.eot?#iefix') format('embedded-opentype'), url('../fonts/Gatorade-Bold.woff2') format('woff2'), url('../fonts/Gatorade-Bold.woff') format('woff'), url('../fonts/Gatorade-Bold.ttf') format('truetype'), url('../fonts/Gatorade-Bold.svg#Gatorade-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gatorade black';
+    src: url('../fonts/Gatorade-Black.eot');
+    src: url('../fonts/Gatorade-Black.eot?#iefix') format('embedded-opentype'), url('../fonts/Gatorade-Black.woff2') format('woff2'), url('../fonts/Gatorade-Black.woff') format('woff'), url('../fonts/Gatorade-Black.ttf') format('truetype'), url('../fonts/Gatorade-Black.svg#Gatorade-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gatorade medium';
+    src: url('../fonts/Gatorade-Medium.eot');
+    src: url('../fonts/Gatorade-Medium.eot?#iefix') format('embedded-opentype'), url('../fonts/Gatorade-Medium.woff2') format('woff2'), url('../fonts/Gatorade-Medium.woff') format('woff'), url('../fonts/Gatorade-Medium.ttf') format('truetype'), url('../fonts/Gatorade-Medium.svg#Gatorade-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gatorade light';
+    src: url('../fonts/Gatorade-Light.eot');
+    src: url('../fonts/Gatorade-Light.eot?#iefix') format('embedded-opentype'), url('../fonts/Gatorade-Light.woff2') format('woff2'), url('../fonts/Gatorade-Light.woff') format('woff'), url('../fonts/Gatorade-Light.ttf') format('truetype'), url('../fonts/Gatorade-Light.svg#Gatorade-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}

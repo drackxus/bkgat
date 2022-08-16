@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56.672" height="58.074" viewBox="0 0 56.672 58.074">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f47d30;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-size: 47px;
+        font-family: Gatorade-Black, Gatorade;
+        font-weight: 800;
+      }
+    </style>
+  </defs>
+  <g id="Grupo_480" data-name="Grupo 480" transform="translate(-1069.374 -285.335)">
+    <g id="Grupo_5" data-name="Grupo 5" transform="translate(1069.374 286.737)">
+      <circle id="Elipse_1" data-name="Elipse 1" class="cls-1" cx="28.336" cy="28.336" r="28.336" transform="translate(0 0)"/>
+    </g>
+    <text id="x" class="cls-2" transform="translate(1084.472 324.335)"><tspan x="0" y="0">x</tspan></text>
+  </g>
+</svg>
